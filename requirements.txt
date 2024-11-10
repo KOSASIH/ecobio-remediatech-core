@@ -6,7 +6,7 @@ matplotlib==3.7.1
 seaborn==0.12.2
 
 # Machine learning
-scikit-learn==1.2.2
+scikit-learn==1.5.0
 tensorflow==2.12.0  # or pytorch==2.0.0 if you prefer PyTorch
 keras==2.12.0
 
