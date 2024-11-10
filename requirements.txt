@@ -15,7 +15,7 @@ plotly==5.13.1
 bokeh==3.1.0
 
 # Web frameworks (if applicable)
-flask==2.2.3
+flask==2.2.5
 fastapi==0.95.0
 
 # Environment management
