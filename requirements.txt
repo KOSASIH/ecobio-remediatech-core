@@ -7,7 +7,7 @@ seaborn==0.12.2
 
 # Machine learning
 scikit-learn==1.2.2
-tensorflow==2.12.0  # or pytorch==2.0.0 if you prefer PyTorch
+tensorflow==2.12.1  # or pytorch==2.0.0 if you prefer PyTorch
 keras==2.12.0
 
 # Data visualization
