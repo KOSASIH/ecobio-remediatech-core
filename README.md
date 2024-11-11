@@ -135,8 +135,6 @@
 [![Regenerative Culture Specialist](https://img.shields.io/badge/Regenerative%20Culture-Certified-2ecc71?style=for-the-badge&logo=culture&logoColor=white)](https://www.regenerativeculture.org/)
 [![Transformative Innovation Professional](https://img.shields.io/badge/Transformative%20Innovation-Certified-3498db?style=for-the-badge&logo=innovation&logoColor=white)](https://www.transformativeinnovation.org/)
 [![Quantum Sustainability Strategist](https://img.shields.io/badge/Quantum%20Sustainability-Certified-2ecc71?style=for-the-badge&logo=quantum&logoColor=white)](https://www.quantumsustainability.org/)
-[![Neuro-Ecological Design Professional](https://img.shields.io/badge/Neuro-Ecological%20Design-Certified-3498db?style=for-the-badge&logo=brain&logoColor=white)](https://www.neuroecology.org/)
-[![Astro-Environmental Systems Expert](https://img.shields.io/badge/Astro-Environmental%20Systems-Certified-e74c3c?style=for-the-badge&logo=space&logoColor=white)](https://www.astroenvironmental.org/)
 [![Synthetic Biology Conservation Specialist](https://img.shields.io/badge/Synthetic%20Biology%20Conservation-Certified-27ae60?style=for-the-badge&logo=dna&logoColor=white)](https://www.syntheticbioconservation.org/)
 [![Transdimensional Ecology Professional](https://img.shields.io/badge/Transdimensional%20Ecology-Certified-16a085?style=for-the-badge&logo=ecosystem&logoColor=white)](https://www.transdimensionalecology.org/)
 [![Artificial Intelligence Ecosystem Modeling](https://img.shields.io/badge/AI%20Ecosystem%20Modeling-Certified-2c3e50?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](https://www.aiecosystemmodeling.org/)
