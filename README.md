@@ -15,6 +15,16 @@
 [![LinkedIn Learning Certified](https://img.shields.io/badge/LinkedIn%20Learning-Certified-0072B1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/)
 [![Google Analytics Certified](https://img.shields.io/badge/Google%20Analytics-Certified-0072B1?style=for-the-badge&logo=google-analytics&logoColor=white)](https://analytics.google.com/)
 [![AWS Certified](https://img.shields.io/badge/AWS%20Certified-0072B1?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
+[![Cisco Certified](https://img.shields.io/badge/Cisco%20Certified-0072B1?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)
+[![Microsoft Certified](https://img.shields.io/badge/Microsoft%20Certified-0072B1?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/learning/certification-overview.aspx)
+[![CompTIA Certified](https://img.shields.io/badge/CompTIA%20Certified-0072B1?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/)
+[![Oracle Certified](https://img.shields.io/badge/Oracle%20Certified-0072B1?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/)
+[![IBM Certified](https://img.shields.io/badge/IBM%20Certified-0072B1?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/certify/)
+[![Salesforce Certified](https://img.shields.io/badge/Salesforce%20Certified-0072B1?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailhead.salesforce.com/)
+[![PMP Certified](https://img.shields.io/badge/PMP%20Certified-0072B1?style=for-the-badge&logo=pmp&logoColor=white)](https://www.pmi.org/certifications/project-management-pmp)
+[![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud%20Certified-0072B1?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/certification/)
+[![Scrum Master Certified](https://img.shields.io/badge/Scrum%20Master%20Certified-0072B1?style=for-the-badge&logo=scrum&logoColor=white)](https://www.scrum.org/)
+[![Certified Ethical Hacker](https://img.shields.io/badge/Certified%20Ethical%20Hacker-0072B1?style=for-the-badge&logo=ec-council&logoColor=white)](https://www.eccouncil.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/ecobio-remediatech-core">EcoBio Remediatech</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
