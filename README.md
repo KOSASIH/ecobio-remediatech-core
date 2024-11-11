@@ -1,3 +1,21 @@
+[![UN SDG Academy Certified](https://img.shields.io/badge/UN%20SDG%20Academy-Certified-0072B1?style=for-the-badge&logo=un&logoColor=white)](https://www.unsdgacademy.org)
+[![UNICEF Learning Passport Certified](https://img.shields.io/badge/UNICEF%20Learning%20Passport-Certified-0072B1?style=for-the-badge&logo=unicef&logoColor=white)](https://www.unicef.org/innovation/learning-passport)
+[![UNESCO OER Certified](https://img.shields.io/badge/UNESCO%20OER-Certified-0072B1?style=for-the-badge&logo=unesco&logoColor=white)](https://oer.unesco.org)
+[![WHO OpenWHO Certified](https://img.shields.io/badge/WHO%20OpenWHO-Certified-0072B1?style=for-the-badge&logo=who&logoColor=white)](https://openwho.org)
+[![WHO Health Emergency Response Certified](https://img.shields.io/badge/WHO%20Health%20Emergency%20Response-Certified-0072B1?style=for-the-badge&logo=who&logoColor=white)](https://www.who.int/emergencies/health-emergency-response)
+[![WHO Global Health Learning Certified](https://img.shields.io/badge/WHO%20Global%20Health%20Learning-Certified-0072B1?style=for-the-badge&logo=who&logoColor=white)](https://www.who.int/learning)
+[![Asian Development Bank Certified](https://img.shields.io/badge/ADB%20Certified-0072B1?style=for-the-badge&logo=asian-development-bank&logoColor=white)](https://www.adb.org/)
+[![World Bank Certified](https://img.shields.io/badge/World%20Bank-Certified-0072B1?style=for-the-badge&logo=world-bank&logoColor=white)](https://www.worldbank.org/)
+[![International Monetary Fund Certified](https://img.shields.io/badge/IMF-Certified-0072B1?style=for-the-badge&logo=imf&logoColor=white)](https://www.imf.org/)
+[![Global Health Learning Network Certified](https://img.shields.io/badge/GHLN-Certified-0072B1?style=for-the-badge&logo=health&logoColor=white)](https://www.ghln.org/)
+[![Harvard University Online Courses](https://img.shields.io/badge/Harvard%20Online%20Courses-Certified-0072B1?style=for-the-badge&logo=harvard&logoColor=white)](https://online-learning.harvard.edu/)
+[![MIT OpenCourseWare Certified](https://img.shields.io/badge/MIT%20OpenCourseWare-Certified-0072B1?style=for-the-badge&logo=mit&logoColor=white)](https://ocw.mit.edu/)
+[![Coursera Certified](https://img.shields.io/badge/Coursera-Certified-0072B1?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/)
+[![edX Certified](https://img.shields.io/badge/edX-Certified-0072B1?style=for-the-badge&logo=edx&logoColor=white)](https://www.edx.org/)
+[![LinkedIn Learning Certified](https://img.shields.io/badge/LinkedIn%20Learning-Certified-0072B1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/)
+[![Google Analytics Certified](https://img.shields.io/badge/Google%20Analytics-Certified-0072B1?style=for-the-badge&logo=google-analytics&logoColor=white)](https://analytics.google.com/)
+[![AWS Certified](https://img.shields.io/badge/AWS%20Certified-0072B1?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/ecobio-remediatech-core">EcoBio Remediatech</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # ecobio-remediatech-core
