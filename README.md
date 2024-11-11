@@ -25,6 +25,16 @@
 [![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud%20Certified-0072B1?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/certification/)
 [![Scrum Master Certified](https://img.shields.io/badge/Scrum%20Master%20Certified-0072B1?style=for-the-badge&logo=scrum&logoColor=white)](https://www.scrum.org/)
 [![Certified Ethical Hacker](https://img.shields.io/badge/Certified%20Ethical%20Hacker-0072B1?style=for-the-badge&logo=ec-council&logoColor=white)](https://www.eccouncil.org/)
+[![Certified Information Systems Security Professional (CISSP)](https://img.shields.io/badge/CISSP-Certified-0072B1?style=for-the-badge&logo=isc2&logoColor=white)](https://www.isc2.org/Certifications/CISSP)
+[![Certified Information Security Manager (CISM)](https://img.shields.io/badge/CISM-Certified-0072B1?style=for-the-badge&logo=isaca&logoColor=white)](https://www.isaca.org/credentialing/cism)
+[![Certified Information Systems Auditor (CISA)](https://img.shields.io/badge/CISA-Certified-0072B1?style=for-the-badge&logo=isaca&logoColor=white)](https://www.isaca.org/credentialing/cisa)
+[![Google Ads Certified](https://img.shields.io/badge/Google%20Ads-Certified-0072B1?style=for-the-badge&logo=googleads&logoColor=white)](https://skillshop.withgoogle.com/)
+[![Facebook Blueprint Certified](https://img.shields.io/badge/Facebook%20Blueprint-Certified-0072B1?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/business/learn/certification)
+[![HubSpot Inbound Certified](https://img.shields.io/badge/HubSpot%20Inbound-Certified-0072B1?style=for-the-badge&logo=hubspot&logoColor=white)](https://academy.hubspot.com/courses/inbound-marketing)
+[![Adobe Certified](https://img.shields.io/badge/Adobe%20Certified-0072B1?style=for-the-badge&logo=adobe&logoColor=white)](https://helpx.adobe.com/certification.html)
+[![Certified Kubernetes Administrator (CKA)](https://img.shields.io/badge/CKA-Certified-0072B1?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.cncf.io/certification/cka/)
+[![Certified DevOps Engineer](https://img.shields.io/badge/DevOps%20Engineer-Certified-0072B1?style=for-the-badge&logo=devops&logoColor=white)](https://www.linuxfoundation.org/)
+[![Certified Data Scientist](https://img.shields.io/badge/Data%20Scientist-Certified-0072B1?style=for-the-badge&logo=data-science&logoColor=white)](https://www.datasciencecertification.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/ecobio-remediatech-core">EcoBio Remediatech</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
