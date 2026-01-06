@@ -12,7 +12,7 @@ keras==2.12.0
 
 # Data visualization
 plotly==5.13.1
-bokeh==3.1.0
+bokeh==3.8.2
 
 # Web frameworks (if applicable)
 flask==2.2.3
